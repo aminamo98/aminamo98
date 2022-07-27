@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aminamo98
-- 👀 I’m interested in software deleopment
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning on how to use flutter
 - 📫 How to reach me ...
 - Also I don't regularly udpate my github, so I apologize for anyone coming here with expectations. Will upload my works soon
